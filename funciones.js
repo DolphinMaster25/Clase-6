@@ -1,10 +1,10 @@
 function Encender(){
-    document.getElementById("img").src="img/Bombillo2.png";
+    document.getElementById("img").src="Bombillo2.png";
 
 }
 
 function Apagar(){
-    document.getElementById("img").src="img/Bombillo.png";
+    document.getElementById("img").src="Bombillo.png";
 
 }
 
